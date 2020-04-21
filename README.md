@@ -6,3 +6,4 @@ I learn how to add commit the files
 I also learn how to request for a pull
 Finally, I learn how to merge the file
 My purpose of learning R Programming is to be a successful Data Scientist in the future
+I now understand how to clone file from Github to RStudio and revise it again
